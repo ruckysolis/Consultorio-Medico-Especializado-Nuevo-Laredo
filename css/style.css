@@ -5,9 +5,9 @@
     --dark: #1B2C51;
 }
 
-h2.text-white {
+h2[data-toggle="counter-up"] {
     font-size: 5rem;
-  }
+}
 
 .fw-medium {
     font-weight: 500 !important;
