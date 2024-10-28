@@ -5,8 +5,8 @@
     --dark: #1B2C51;
 }
 
-h2 {
-    font-size: 6rem;
+h2.text-white {
+    font-size: 5rem;
   }
 
 .fw-medium {
