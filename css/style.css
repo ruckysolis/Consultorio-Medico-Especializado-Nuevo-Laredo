@@ -163,6 +163,12 @@
     text-shadow: 0 0 30px rgba(0, 0, 0, .1);
 }
 
+.owl-carousel-text > .display-1 {
+    background: rgba(4,99,250,0.2);
+    border-radius: 1rem;
+    padding: 1rem;
+    }
+
 .header-carousel .owl-nav {
     position: absolute;
     width: 200px;
